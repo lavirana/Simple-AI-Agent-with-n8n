@@ -42,10 +42,3 @@ The agent is capable of answering questions, performing calculations, and retrie
 
 ![Workflow Screenshot](https://github.com/user-attachments/assets/40db326a-c53e-4ead-b077-b3ae63d8550b)
 
-<img width="1440" alt="Screenshot 2025-05-18 at 1 57 38 PM" src="https://github.com/user-attachments/assets/40db326a-c53e-4ead-b077-b3ae63d8550b" />
-
-
-
-
-## 📦 File Structure
-
